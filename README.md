@@ -2,7 +2,7 @@
 This is a freecodecamp project from their data visualisation certification. This project displays the United States GDP history. Technologies used for this project are JavaScript, D3 (Data Visualisation Library) and HTML/CSS.
 
 # Data
-The data that was used for this project was obtained from; https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json 
+The data that was used for this project was obtained from: https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json 
 
 # Challenge
 **User Story #1**: My chart should have a title with a corresponding `id="title"`.
