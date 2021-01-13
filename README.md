@@ -4,6 +4,9 @@ This is a freecodecamp project from their data visualisation certification. This
 # Data
 The data that was used for this project was obtained from: https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json 
 
+# Demo
+Here is the codepen link for this project: https://codepen.io/devalpanchal2401/pen/yLaRjoJ 
+
 # Challenge
 **User Story #1**: My chart should have a title with a corresponding `id="title"`.
 
